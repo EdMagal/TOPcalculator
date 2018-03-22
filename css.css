@@ -1,0 +1,60 @@
+#container{
+  width: 370px;
+}
+
+#thread{
+  font-family: Orbitron;
+  text-align: right;
+  width: 360px;
+  height: 30px;
+  border-width: 2px 2px 0px 2px; 
+  border-style: solid;
+  border-color: black;
+  overflow: hidden;
+  background-color: white;
+}
+
+#total {
+  font-family: Orbitron;
+  font-size: 1.5em;
+  text-align: right;
+  width: 360px;
+  height: 50px;
+  border-width: 0px 2px 2px 2px; 
+  border-style: solid;
+  border-color: black;
+  overflow: hidden;
+  background-color: white;
+  margin-bottom: 5px;
+}
+
+#zero {
+  width: 146px;
+}
+
+#equal {
+  height: 154px;
+  float: right;
+}
+
+button{
+  border-radius: 8px;
+  display: inline-block;
+  text-align: center;
+  width: 70px;
+  height: 30px;
+  background-color: #C3F9F3;
+  margin: 1px;
+}
+button:hover{
+  background-color: #AAEEEE
+}
+
+.calculator{
+  border-radius: 10px;
+  background-color: #91E8DF;
+  padding: 7px;
+  width: 400px;
+  height: 300px;
+  
+}
